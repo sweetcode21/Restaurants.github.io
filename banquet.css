@@ -1,0 +1,17 @@
+h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: aliceblue;
+font-size: 30px ;
+ }
+ h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: rgb(241, 136, 16);
+margin-top: 40px;
+font-size: 60px ;
+ }
+ span {
+    content: "\2190";
+    color: rgb(232, 172, 22);
+    font-size: 90px;
+    margin-right: 320px;
+}

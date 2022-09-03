@@ -1,0 +1,27 @@
+h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: aliceblue;
+font-size: 30px;
+ }
+ h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: rgb(241, 136, 16);
+margin-top: 200px;
+font-size: 60px ;
+ }
+ h6 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: aliceblue;
+ }
+ span {
+    content: "\2192";
+    color: aliceblue;
+    font-size: 90px;
+    margin-left: 320px;
+}
+span {
+    content: "\2190";
+    color: aliceblue;
+    font-size: 90px;
+    margin-left: 320px;
+}
